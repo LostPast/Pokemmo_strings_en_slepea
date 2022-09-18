@@ -6,9 +6,11 @@ Has Gilan's Encounter Counter support! [GEC support](#gilans-encounter-counter)
 
 ## Install
 
-Download [Current Release]()
+Download [Current Release](https://github.com/LostPast/Pokemmo_strings_en_slepea/archive/refs/heads/strings_en_slepea.zip)
 
-[strings_en]() If you have previously messed with this file. (version obtained 2022-09-18)
+[strings_en](https://github.com/LostPast/Pokemmo_strings_en_slepea/archive/refs/heads/strings_en_default_2022_09-18.zip) If you have previously messed with this file. (version obtained 2022-09-18)
+
+- Unzip the Files for use
 
 - [PC](#PC)
 - [Mobile](#Mobile)
@@ -36,9 +38,9 @@ Download [Current Release]()
     - Might have to relaunch the game for changes to take effect.
 
 ### Gilan's Encounter Counter
--[Gilan's Encouter Counter](https://forums.pokemmo.com/index.php?/topic/137452-tool-gilans-encounter-counter-beta-available-v102-update/) is a **PC** only python program that counts the amount of pokemon you have seen
--It is not required and up to you if you want to download it
--**English - Slepea** strings work with **GEC**
+- [Gilan's Encouter Counter](https://forums.pokemmo.com/index.php?/topic/137452-tool-gilans-encounter-counter-beta-available-v102-update/) is a [PC](#PC) only python program that counts the number of pokemon you have seen
+- It is not required and up to you if you want to download it
+- **English - Slepea** strings work with **GEC**
 
 ### Mobile
 
