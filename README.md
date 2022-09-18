@@ -10,8 +10,8 @@ Download [Current Release]()
 
 [strings_en]() If you have previously messed with this file. (version obtained 2022-09-18)
 
-*[PC](#PC)
-*[Mobile](#Mobile)
+-[PC](#PC)
+-[Mobile](#Mobile)
 
 ### PC
 
@@ -27,12 +27,12 @@ Download [Current Release]()
 3. Set **Language** to **English - Slepea** in PokeMMO **Settings**
     - Might have to relaunch the game for changes to take effect.
 
-#### Gilan's Encounter Counter
+### Gilan's Encounter Counter
 
-    Gilan's Encouter Counter is a **PC** only python program that counts the amount of pokemon you have seen
-    It is not required and up to you if you want to download it
-    English - Slepea strings work with GEC
-    [Gilan's Encouter Counter](https://forums.pokemmo.com/index.php?/topic/137452-tool-gilans-encounter-counter-beta-available-v102-update/)
+Gilan's Encouter Counter is a **PC** only python program that counts the amount of pokemon you have seen
+It is not required and up to you if you want to download it
+English - Slepea strings work with GEC
+[Gilan's Encouter Counter](https://forums.pokemmo.com/index.php?/topic/137452-tool-gilans-encounter-counter-beta-available-v102-update/)
 
 ### Mobile
 
