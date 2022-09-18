@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <ds_strings_archive archive_type="0" lang="en_slepea" region_id="3">
-
+    <!--Gym Rerun-->
     <string block_id="0" entry_id="0" table_id="67"> </string>
+    <!--Fossil-->
     <string block_id="0" entry_id="1" table_id="79"> </string>
     <string block_id="0" entry_id="2" table_id="79"> </string>
     <string block_id="0" entry_id="3" table_id="79"> </string>
@@ -11,12 +12,14 @@
     <string block_id="0" entry_id="7" table_id="79"> </string>
     <string block_id="0" entry_id="8" table_id="79"> </string>
     <string block_id="0" entry_id="9" table_id="79">Name?</string>
+    <!--Gym Rerun-->
     <string block_id="0" entry_id="0" table_id="87"> </string>
 	<string block_id="0" entry_id="0" table_id="109"> </string>
     <string block_id="0" entry_id="0" table_id="133"> </string>
     <string block_id="0" entry_id="0" table_id="144"> </string>
 	<string block_id="0" entry_id="0" table_id="165"> </string>
 	<string block_id="0" entry_id="0" table_id="178"> </string>
+    <!--Pokémon Center-->
 	<string block_id="0" entry_id="0" table_id="213"> </string>
     <string block_id="0" entry_id="1" table_id="213"> </string>
     <string block_id="0" entry_id="2" table_id="213"> </string>
@@ -24,9 +27,11 @@
     <string block_id="0" entry_id="4" table_id="213"> </string>
 	<string block_id="0" entry_id="120" table_id="213"> </string>
     <string block_id="0" entry_id="121" table_id="213"> </string>
+    <!--suppressed-->
 	<string block_id="0" entry_id="1012" table_id="368"> </string>
     <string block_id="0" entry_id="1013" table_id="368"> </string>
     <string block_id="0" entry_id="1014" table_id="368"> </string>
+    <!--HM-->
 	<string block_id="0" entry_id="0" table_id="381">Cut?</string>
     <string block_id="0" entry_id="1" table_id="381"> </string>
     <string block_id="0" entry_id="2" table_id="381">No Cut</string>
@@ -52,11 +57,13 @@
     <string block_id="0" entry_id="24" table_id="381">No Waterfall</string>
     <string block_id="0" entry_id="25" table_id="381"> </string>
     <string block_id="0" entry_id="26" table_id="381"> </string>
+    <!--Day-Care Man-->
 	<string block_id="0" entry_id="0" table_id="547"> </string>
     <string block_id="0" entry_id="1" table_id="547"> </string>
     <string block_id="0" entry_id="2" table_id="547"> </string>
 	<string block_id="0" entry_id="5" table_id="547"> </string>
     <string block_id="0" entry_id="6" table_id="547"> </string>
+    <!--npc talk-->
 	<string block_id="0" entry_id="1242" table_id="617"> </string>
     <string block_id="0" entry_id="1339" table_id="617"> </string>	
 </ds_strings_archive>

@@ -174,7 +174,7 @@
 	<!-- login Screen -->
 	<string id="1170">ROMs:</string> <!-- ROMs loaded line -->
 	<string id="1000">Login</string> <!-- shared button and window title -->
-	<string id="1004">→Language Slepea V 1.2 (GEC compatable)</string> <!-- announcements -->
+	<string id="1004">→Language Slepea V 0.2.1 (GEC compatable)</string> <!-- announcements -->
 	<!-- settings window title-->
 	<string id="1200">Settings</string> <!-- window title -->
 	<!-- server select headers -->
