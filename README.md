@@ -2,7 +2,7 @@
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://raw.githubusercontent.com/LostPast/Pokemmo_strings_en_slepea/main/LICENSE)
 
-Has Gilan's Encounter Counter support! [GEC support](#Gilan's-Encounter-Counter)
+Has Gilan's Encounter Counter support! [GEC support](#gilan's-encounter-counter)
 
 ## Install
 
@@ -37,13 +37,13 @@ Download [Current Release]()
 
 ### Gilan's Encounter Counter
 
-Gilan's Encouter Counter is a **PC** only python program that counts the amount of pokemon you have seen
-
-It is not required and up to you if you want to download it
-
-English - Slepea strings work with GEC
-
 [Gilan's Encouter Counter](https://forums.pokemmo.com/index.php?/topic/137452-tool-gilans-encounter-counter-beta-available-v102-update/)
+
+    Gilan's Encouter Counter is a **PC** only python program that counts the amount of pokemon you have seen
+
+    It is not required and up to you if you want to download it
+
+    **English - Slepea** strings work with **GEC**
 
 ### Mobile
 
@@ -51,7 +51,7 @@ English - Slepea strings work with GEC
     - Click on Clear Imported Strings to set your strings to default
 
     ![Image](img/MobileImportStrings.jpg "Import Strings")
-    
+
     - Click on Import Strings File
     - Select Downloaded Strings file
     - **Repeat** for every strings file downloaded from **current release**
