@@ -10,7 +10,7 @@ Download [Current Release](https://github.com/LostPast/Pokemmo_strings_en_slepea
 
 [strings_en](https://github.com/LostPast/Pokemmo_strings_en_slepea/archive/refs/heads/strings_en_default_2022_09-18.zip) If you have previously messed with this file. (version obtained 2022-09-18)
 
-- Unzip the Files for use
+**Unzip** the Files for use!
 
 - [PC](#PC)
 - [Mobile](#Mobile)
