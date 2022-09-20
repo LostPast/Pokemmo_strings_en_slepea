@@ -17,7 +17,7 @@
 	<string block_id="0" entry_id="0" table_id="119"> </string>
 	<string block_id="0" entry_id="0" table_id="126"> </string>
     <!--Which floor would you like to go to?-->
-    <string block_id="0" entry_id="8" table_id="261"></string>
+    <string block_id="0" entry_id="8" table_id="261"> </string>
     <!--Fishing-->
 	<string block_id="0" entry_id="3" table_id="263">!</string>
     <string block_id="0" entry_id="4" table_id="263">..</string>

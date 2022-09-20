@@ -9,6 +9,15 @@
     <string block_id="0" entry_id="567" table_id="14">The foe's {00}'s Ability\nwas suppressed!</string>
     <!--npc talk-->
     <string block_id="0" entry_id="420" table_id="189"> </string>
+    <string block_id="0" entry_id="1477" table_id="189"> </string>
     <string block_id="0" entry_id="1483" table_id="189"> </string>
     <string block_id="0" entry_id="1599" table_id="189"> </string>
+    <!--unova shopping mall npcs-->
+    <string block_id="0" entry_id="464" table_id="189"> </string>
+    <string block_id="0" entry_id="465" table_id="189"> </string>
+    <string block_id="0" entry_id="466" table_id="189"> </string>
+    
+    <string block_id="0" entry_id="467" table_id="189"> </string>
+    <string block_id="0" entry_id="468" table_id="189"> </string>
+    <string block_id="0" entry_id="469" table_id="189"> </string>
 </ds_strings_archive>
