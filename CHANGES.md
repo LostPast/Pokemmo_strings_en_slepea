@@ -1,9 +1,18 @@
 # Pokemmo strings_en_slepea Language Changes
 
+## 2022-09-20 0.2.2
+
+### Features
+- Removed more RICH trainer strings from Unova
+- Features info added to readme
+
+### Fixes
+- Elevator string
+
 ## 2022-09-18 0.2.1
 
 ### Features
-- used (\n) on 'used' strings (text box no longer appears when using Overworld HM moves)
+- Used (\n) on 'used' strings (text box no longer appears when using Overworld HM moves)
 
 ### Fixes
 - Cleaned up comments and reformated

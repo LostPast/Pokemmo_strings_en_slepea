@@ -6,7 +6,7 @@ Has Gilan's Encounter Counter support! [GEC support](#gilans-encounter-counter)
 
 ## Install
 
-Download [Current Release](https://github.com/LostPast/Pokemmo_strings_en_slepea/archive/refs/heads/strings_en_slepea.zip)
+**Download** [strings_en_slepea CURRENT RELEASE](https://github.com/LostPast/Pokemmo_strings_en_slepea/archive/refs/heads/strings_en_slepea.zip)
 
 [strings_en](https://github.com/LostPast/Pokemmo_strings_en_slepea/archive/refs/heads/strings_en_default_2022_09-18.zip) If you have previously messed with this file. (version obtained 2022-09-18)
 
@@ -14,6 +14,7 @@ Download [Current Release](https://github.com/LostPast/Pokemmo_strings_en_slepea
 
 - [PC](#PC)
 - [Mobile](#Mobile)
+- [Features](#Features)
 
 ### PC
 
@@ -53,3 +54,17 @@ Download [Current Release](https://github.com/LostPast/Pokemmo_strings_en_slepea
     - Select Downloaded Strings file
     - **Repeat** for every strings file downloaded from **current release**
 2. Set **Language** to **English - Slepea** in PokeMMO **Settings**
+
+### Features
+
+- **Wont be overwritten** by Pokemmo updates
+- Works with **Gilan's Encounter Counter** (only Gilian's has been made to work)
+- Removes/Blanks/Shrinks strings used for;
+    1. **Gym ReRuns**
+    2. **Trainer ReBattles**
+    3. **Berry Farming**
+    4. **Pokemon Centers**
+    5. **Overworld HMs**
+    6. **Breeding**
+    7. **Region Change Ferry**
+    8. **& More Tweeks**
